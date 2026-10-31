@@ -141,23 +141,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 56.7** — strong · rubric 0.25.0 · scored 2026-10-28
+**Kin Score 53.5** — developing · rubric 0.25.0 · scored 2026-10-28
 
 | Facet | Score |
 |---|---|
 | Discoverability | 66.7 |
-| Contract quality | 42.9 |
-| Contract governance | 65.5 |
-| Operational transparency | 33.7 |
-| Developer ergonomics | 68.3 |
-| Access clarity | 60.0 |
+| Contract quality | 45.9 |
+| Contract governance | 31.8 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 63.7 |
+| Access clarity | 63.2 |
 
-**Agent readiness 40.0** — agent-ready (gated down from agent-native)
+**Agent readiness 33.5** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | bearer (partial credit) |
@@ -166,7 +166,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | verified |
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
